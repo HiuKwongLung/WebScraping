@@ -1,0 +1,126 @@
+url: https://medium.com/the-power-of-ai/evidently-ai-your-one-stop-shop-for-data-analysis-and-model-evaluation-dd190f91fadb
+
+Jigisha Barbhaya
+
+Follow
+
+The Power of AI
+
+--
+
+Listen
+
+Share
+
+In the vast world of technical news, where amazing discoveries and clever tools appear, I found something really exciting that made me very happy. I discovered a hidden gem — a Python library called Evidently AI. It’s a library that helps analyse data and evaluate models, all in one place. I was really interested in what it could do, so I started reading the news article. Little did I know that it would completely change the way I work with data.
+
+As I began using Evidently AI, it felt like I had found a treasure chest full of possibilities. With just a few simple lines of code, I entered a world where I could easily analyse complex data and evaluate models. It was all so easy to understand and use. The library’s seamless integration into my Python workflow was a breath of fresh air, igniting my passion for exploring the depths of data. You can just refer this guided project which will help you to understand Evidently AI easily.
+
+The once overwhelming rows and columns became a harmonious dance, revealing hidden patterns and insights. It was like magic, as Evidently AI turned raw data into a language anyone could understand.
+
+But Evidently AI’s enchantment didn’t stop there. It offered a rich array of tools for evaluating machine learning models. As a data scientist, this realm had often posed challenges for me. However, Evidently AI provided me with a suite of metrics, charts, and performance evaluation techniques. With a simple command, I could effortlessly assess model accuracy, precision, and recall. The library offered comprehensive insights into my models’ strengths and weaknesses, empowering me to make informed decisions and refine my algorithms for optimal performance.
+
+Evidently helps evaluate and test data and ML model quality throughout the model lifecycle.
+
+Evidently has three components:
+
+These interfaces cover alternative usage scenarios: from visual analysis to automated pipeline testing and real-time monitoring. You need to provide the data, choose what to evaluate, and the output format.
+
+Example 1. To generate the Report that includes two Presets for Data and Target Drift:
+
+Example 2. To generate the Report for a single dataset:
+
+Evidently AI is a solution for data analysis and model evaluation. It provides an intuitive interface that simplifies the intricacies of data analysis, allowing users to import datasets and transform them into captivating visualisations effortlessly. You can refer this guided project also which includes a wide range of evaluation techniques for machine learning models, empowering data scientists to assess model accuracy, precision, and recall with ease using Evidently AI. With its comprehensive insights into model strengths and weaknesses, Evidently AI enables users to make informed decisions and refine algorithms for optimal performance. It serves as a valuable resource for data analysis and model evaluation needs, streamlining the entire process in one convenient platform
+
+--
+
+--
+
+The Power of AI
+
+Data scientist @ https://www.ibm.com/in-en
+
+Jigisha Barbhaya
+
+in
+
+The Power of AI
+
+--
+
+Artem Arutyunov
+
+in
+
+The Power of AI
+
+--
+
+Sina Nazeri
+
+in
+
+The Power of AI
+
+--
+
+Jigisha Barbhaya
+
+in
+
+The Power of AI
+
+--
+
+Rayyan Shaikh
+
+--
+
+9
+
+InnovatewithDataScience
+
+--
+
+1
+
+AL Anany
+
+--
+
+149
+
+Daniel Martinez
+
+--
+
+Ziv Ariely
+
+--
+
+Jonathan Shriftman
+
+--
+
+3
+
+Help
+
+Status
+
+Writers
+
+Blog
+
+Careers
+
+Privacy
+
+Terms
+
+About
+
+Text to speech
+
+Teams
+
